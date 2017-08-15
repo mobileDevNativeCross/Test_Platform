@@ -1,0 +1,16 @@
+node_modules
+client/node_modules
+client/package_old.json
+client/public/build
+server/config/static/*.local.*
+server/components/scripts/*.local.*
+.idea
+logs
+apidoc
+dist
+*.DS_Store
+client/src/.DS_Store
+server/route/_temp.js
+*npm-debug*
+database.sqlite
+package_old.json
